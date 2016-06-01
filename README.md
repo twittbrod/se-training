@@ -3,6 +3,8 @@
 This Repo contains all the codes created for this training.  The lab guide can be found at NGDC-West jive.
 https://cisco.jiveon.com/groups/ngdc-west
 
+making a change - TW 06/01/2016
+
 # Topics Covered
 ## Gitlab
 ## NXOS Ansible
